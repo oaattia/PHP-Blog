@@ -1,0 +1,11 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Add this values to connect to the database
+|--------------------------------------------------------------------------
+*/
+define('SERVER', '');
+define('DATABASE', '');
+define('USERNAME', '' );
+define('PASSWORD', '' );

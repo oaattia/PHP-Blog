@@ -1,0 +1,4 @@
+/vendor/
+/build/
+database.php
+.idea
